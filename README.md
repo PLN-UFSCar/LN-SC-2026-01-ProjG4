@@ -11,7 +11,7 @@ O projeto é estruturado de forma progressiva em dois notebooks Jupyter: a extra
 O projeto utiliza o **Fake.Br Corpus**, que é a base de dados de referência mais conhecida e utilizada para o estudo de desinformação no cenário do português brasileiro.
 
 1. **Link para Download:** Você deve descarregar o dataset diretamente do repositório oficial da Nilc (Núcleo Interinstitucional de Linguística Computacional):
-   👉 **[https://github.com/roneisilva/Fake.br-Corpus](https://github.com/roneisilva/Fake.br-Corpus)**
+   👉 **[[https://github.com/roneisilva/Fake.br-Corpus](https://github.com/roneisilva/Fake.br-Corpus)](https://github.com/roneysco/Fake.br-Corpus)**
 2. **Estrutura de Pastas Necessária:** Após clonar ou descarregar o arquivo ZIP do corpus, certifique-se de localizar a pasta `full_texts`. O notebook `sanity.ipynb` espera encontrar e ler as duas subpastas originais neste exato formato:
    * `full_texts/fake` (Contendo as 3.600 notícias falsas em formato `.txt`)
    * `full_texts/true` (Contendo as 3.600 notícias verdadeiras em formato `.txt`)
